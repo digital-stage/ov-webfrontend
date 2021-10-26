@@ -1,9 +1,9 @@
 <?php
 
-$fp_dev = fopen("../lock_dev.txt", "a+");
-$fp_user = fopen("../lock_user.txt", "a+");
-$fp_register = fopen("../lock_reg.txt", "a+");
-$fp_authfail = fopen("../lock_auth.txt", "a+");
+$fp_dev = fopen($_SERVER['DOCUMENT_ROOT']."lock_dev.txt", "a+");
+$fp_user = fopen($_SERVER['DOCUMENT_ROOT']."lock_user.txt", "a+");
+$fp_register = fopen($_SERVER['DOCUMENT_ROOT']."lock_reg.txt", "a+");
+$fp_authfail = fopen($_SERVER['DOCUMENT_ROOT']."lock_auth.txt", "a+");
 
 function defaults( $type )
 {
