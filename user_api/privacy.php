@@ -21,7 +21,7 @@ echo '<p><strong>General note and mandatory information</strong></p>';
 echo '<p><strong>Designation of the responsible body</strong></p>';
 
 echo '<p>The person responsible for data processing on this website is</p>';
-echo '<p><span id="s3-t-firma">Ensemble ORLANDOviols</span><br><span id="s3-t-ansprechpartner">Giso Grimm</span><br><span id="s3-t-strasse">Elsässer Straße 8</span><br><span id="s3-t-plz">26121</span> <span id="s3-t-ort">Oldenburg</span><br>Germany</p><p></p>';
+echo '<p><span id="s3-t-firma">Digital Stage</span><br><span id="s3-t-ansprechpartner">Fee Altmann</span><br><span id="s3-t-strasse">Mariannen-Platz 2</span><br><span id="s3-t-plz">10997</span> <span id="s3-t-ort">Berlin</span><br>Germany</p><p></p>';
 echo '<p>The responsible body decides alone or jointly with others on the purposes and means of processing personal data (e.g. names, contact details, etc.).</p>';
 
 echo '<p><strong>Revocation of your consent to data processing</strong></p>';

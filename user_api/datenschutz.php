@@ -21,7 +21,7 @@ echo '<p><strong>Benennung der verantwortlichen Stelle</strong></p>';
 
 echo '<p>Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:</p>';
 
-echo '<p><span id="s3-t-firma">Ensemble ORLANDOviols</span><br><span id="s3-t-ansprechpartner">Giso Grimm</span><br><span id="s3-t-strasse">Elsässer Straße 8</span><br><span id="s3-t-plz">D-26121</span> <span id="s3-t-ort">Oldenburg</span></p><p></p>';
+echo '<p><span id="s3-t-firma">Digital Stage</span><br><span id="s3-t-ansprechpartner">Fee Altmann</span><br><span id="s3-t-strasse">Mariannen-Platz 2</span><br><span id="s3-t-plz">10997</span> <span id="s3-t-ort">Berlin</span></p><p></p>';
 
 echo '<p>Die verantwortliche Stelle entscheidet allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z.B. Namen, Kontaktdaten o. Ä.).</p>';
 
